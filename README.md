@@ -2,11 +2,11 @@
 To predict the Quantity for the next 10 days for each product in each city.
 
 -----------
-#The goal of task is to predict 
+The goal of task is to predict 
 
 ---
 
-#future value quantity based on historical data.
+future value quantity based on historical data.
 
-#To predict the Quantity for the next 10 days for each product in
-#each city.
+To predict the Quantity for the next 10 days for each product in
+each city.
